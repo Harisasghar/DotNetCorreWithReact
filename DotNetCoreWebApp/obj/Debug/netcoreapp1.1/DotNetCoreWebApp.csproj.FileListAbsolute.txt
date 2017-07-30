@@ -1,0 +1,9 @@
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.deps.json
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.json
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.runtimeconfig.dev.json
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\bin\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.csprojResolveAssemblyReference.cache
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.AssemblyInfo.cs
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.dll
+D:\Git\My Projects\DotNetCoreWebApp\DotNetCoreWebApp\obj\Debug\netcoreapp1.1\DotNetCoreWebApp.pdb
