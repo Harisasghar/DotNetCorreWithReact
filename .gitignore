@@ -1,2 +1,3 @@
 /.vs/DotNetCoreWebApp/*
 /DotNetCoreWebApp/bin/*
+/DotNetCoreWebApp/obj/*
