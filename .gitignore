@@ -2,3 +2,5 @@
 /DotNetCoreWebApp/bin/Debug/netcoreapp1.1
 /DotNetCoreWebApp/obj/*
 /DotNetCoreWebApp/obj/Debug/netcoreapp1.1
+/DotNetCoreWebApp/bin/Debug/netcoreapp2.0
+/.vs/config

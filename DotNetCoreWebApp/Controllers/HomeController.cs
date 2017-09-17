@@ -20,7 +20,7 @@ namespace DotNetCoreWebApp.Controllers
                 new CommentModel
                 {
                     Id = 1,
-                    Author = "Daniel Lo Nigro",
+                    Author = "Daniel Lo Petro",
                     Text = "Hello ReactJS.NET World!"
                 },
                 new CommentModel
